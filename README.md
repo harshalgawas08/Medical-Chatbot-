@@ -1,2 +1,30 @@
-# Medical-Chatbot-
-🏥 Medical Chatbot with RAG (Retrieval-Augmented Generation) A medical chatbot powered by Retrieval-Augmented Generation (RAG), designed to provide fast and context-aware responses from medical PDFs.  🔧 Tech Stack LLMs: Groq-hosted LLaMA 3  RAG Pipeline: LangChain + HuggingFace Embeddings + FAISS  Document Loader: PyPDFLoader  Frontend: Streamlit
+# 🏥 Medical Chatbot with RAG (Retrieval-Augmented Generation)
+
+A medical chatbot built using Retrieval-Augmented Generation (RAG) to provide accurate, context-aware answers from medical documents. Combines the power of LLMs, vector search, and PDF parsing to enable intelligent medical QA.
+
+---
+
+## 🔧 Tech Stack
+
+- **LLMs**: Groq-hosted LLaMA 3
+- **RAG Pipeline**: LangChain, HuggingFace Embeddings, FAISS
+- **Document Loader**: PyPDFLoader
+- **Frontend**: Streamlit
+
+---
+
+## 📌 Key Features
+
+- 🔍 **Vector Search**: Uses FAISS and HuggingFace embeddings for fast and relevant document chunk retrieval.
+- 🧠 **LLM Integration**: Groq-hosted LLaMA3 ensures low-latency, high-accuracy response generation.
+- 🛠️ **Custom Prompt Templates**: Tailored prompts to enhance clarity and maintain domain-relevant output.
+- ⚡ **Streamlit Interface**: Simple and interactive UI for seamless user experience.
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/medical-chatbot-rag.git
+cd medical-chatbot-rag
