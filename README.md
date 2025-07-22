@@ -20,11 +20,3 @@ A medical chatbot built using Retrieval-Augmented Generation (RAG) to provide ac
 - 🛠️ **Custom Prompt Templates**: Tailored prompts to enhance clarity and maintain domain-relevant output.
 - ⚡ **Streamlit Interface**: Simple and interactive UI for seamless user experience.
 
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/medical-chatbot-rag.git
-cd medical-chatbot-rag
